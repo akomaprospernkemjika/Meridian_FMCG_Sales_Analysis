@@ -1,7 +1,6 @@
 # Meridian Consumer Goods Nigeria Ltd — Sales Performance Analysis (FY2022–2024)
 
 ![Dashboard](images/Dashboard.png)
-
 ---
 
 ## The Story Behind This Project
